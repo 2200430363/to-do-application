@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    background-image: url("https://thumbs.dreamstime.com/b/desk-notepad-to-do-list-pens-light-pink-background-top-view-desk-notepad-to-do-list-pens-light-pink-125175912.jpg " );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:0px ;
+}
+h1{
+    text-align: center;
+    background-color: #ff00a6;
+    margin-left: 500px;
+    margin-right: 500px;
+}
